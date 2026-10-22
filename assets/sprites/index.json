@@ -1,0 +1,1588 @@
+{
+ "bat_fiend": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 63,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "crab_warrior": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.7,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 7,
+  "frameHeight": 64,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "cultist": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 76,
+  "scale": 3
+ },
+ "demon_brute": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 66,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "dragon_king": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.5,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 92,
+  "frameWidth": 110,
+  "scale": 3
+ },
+ "dragon_mage": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 63,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "drake_warrior": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.5,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 63,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "drowned_pirate": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.59,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 64,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "efreet": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 99,
+  "frameWidth": 102,
+  "scale": 3
+ },
+ "fire_imp": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 67,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "frost_giant": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.93,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 3,
+  "frameHeight": 97,
+  "frameWidth": 106,
+  "scale": 3
+ },
+ "frost_harpy": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "gargoyle": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 60,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "ghoul": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.59,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 64,
+  "scale": 3
+ },
+ "giant_rat": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 64,
+  "frameWidth": 74,
+  "scale": 3
+ },
+ "gnoll": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 66,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "goblin": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 64,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "goblin_chief": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.5,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 93,
+  "frameWidth": 100,
+  "scale": 3
+ },
+ "hero": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "cast": {
+    "duration": 0.08,
+    "frames": 7,
+    "loop": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": true,
+  "footY": 0,
+  "frameHeight": 62,
+  "frameWidth": 64,
+  "scale": 3
+ },
+ "ice_golem": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 62,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "jackal_lord": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.59,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 96,
+  "frameWidth": 106,
+  "scale": 3
+ },
+ "kobold": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 58,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "lizardman": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.93,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 62,
+  "frameWidth": 66,
+  "scale": 3
+ },
+ "magma_golem": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 63,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "merfolk": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 63,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "minotaur": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 63,
+  "frameWidth": 66,
+  "scale": 3
+ },
+ "mummy": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 66,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "obsidian_golem": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 4,
+  "frameHeight": 67,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "ogre": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "orc_scout": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 60,
+  "frameWidth": 84,
+  "scale": 3
+ },
+ "orc_warrior": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 64,
+  "frameWidth": 68,
+  "scale": 3
+ },
+ "salamander": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 65,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "sand_bandit": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 64,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "scorpion_man": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "sea_king": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 3,
+  "frameHeight": 98,
+  "frameWidth": 116,
+  "scale": 3
+ },
+ "shark_man": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 65,
+  "frameWidth": 74,
+  "scale": 3
+ },
+ "shroomling": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 3,
+  "frameHeight": 66,
+  "frameWidth": 74,
+  "scale": 3
+ },
+ "skeleton": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 66,
+  "frameWidth": 72,
+  "scale": 3
+ },
+ "skeleton_knight": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 3,
+  "frameHeight": 94,
+  "frameWidth": 122,
+  "scale": 3
+ },
+ "snowman": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 59,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "spider_queen": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 86,
+  "frameWidth": 98,
+  "scale": 3
+ },
+ "thorn_dryad": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 65,
+  "frameWidth": 74,
+  "scale": 3
+ },
+ "toad_warrior": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.79,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 64,
+  "frameWidth": 74,
+  "scale": 3
+ },
+ "troll": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.93,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 63,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "troll_king": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 97,
+  "frameWidth": 108,
+  "scale": 3
+ },
+ "vampire_lord": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 94,
+  "frameWidth": 108,
+  "scale": 3
+ },
+ "werewolf": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.77,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 0,
+  "frameHeight": 64,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "wood_spirit": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 65,
+  "frameWidth": 76,
+  "scale": 3
+ },
+ "wraith": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 67,
+  "frameWidth": 70,
+  "scale": 3
+ },
+ "wyvern_knight": {
+  "anims": {
+   "attack": {
+    "duration": 0.075,
+    "frames": 7,
+    "impact": 0.64,
+    "loop": false,
+    "recover": true
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 1,
+  "frameHeight": 68,
+  "frameWidth": 78,
+  "scale": 3
+ },
+ "yeti": {
+  "anims": {
+   "attack": {
+    "duration": 0.056,
+    "frames": 11,
+    "impact": 0.68,
+    "loop": false,
+    "recover": false
+   },
+   "death": {
+    "duration": 0.1,
+    "frames": 7,
+    "loop": false
+   },
+   "hurt": {
+    "duration": 0.08,
+    "frames": 5,
+    "loop": false
+   },
+   "idle": {
+    "duration": 0.14,
+    "frames": 7,
+    "loop": true
+   }
+  },
+  "facesRight": false,
+  "footY": 2,
+  "frameHeight": 68,
+  "frameWidth": 74,
+  "scale": 3
+ }
+}

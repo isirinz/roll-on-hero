@@ -1,0 +1,274 @@
+{
+ "hero": {
+  "characterId": "99fb3725-62ea-4787-aa50-591056946040",
+  "direction": "east",
+  "scale": 3
+ },
+ "giant_rat": {
+  "characterId": "2e1abb53-226a-4074-8ad9-c6cc710074ca",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "kobold": {
+  "characterId": "6f76754b-e061-4bbf-a39f-9108b647aea1",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike3"
+ },
+ "goblin": {
+  "characterId": "7531a82a-ffe2-4f12-b2f0-03808f6800f8",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "orc_scout": {
+  "characterId": "1e5109d3-1b8d-4483-9fcb-c5f113f81fed",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "goblin_chief": {
+  "characterId": "724ad737-845a-441c-a8d7-ab5b83b949e3",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "skeleton": {
+  "characterId": "b0df5aad-a2c5-481d-8431-229700f6d893",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "ghoul": {
+  "characterId": "d8db631f-8ffd-4d01-a44c-9144498d11d9",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "orc_warrior": {
+  "characterId": "75993a93-16fa-48dc-9b0d-00dc7b411e6b",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "werewolf": {
+  "characterId": "689be410-d838-46e8-97fb-4f60f0dfb831",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "skeleton_knight": {
+  "characterId": "476fbef7-b29b-44a9-a984-8e282808c6ae",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike3"
+ },
+ "troll": {
+  "characterId": "256a8842-eca3-40f6-89ec-9aebe8c4bb33",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "lizardman": {
+  "characterId": "a93c2e9a-123c-42a0-8005-81bc3bf8f781",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "ogre": {
+  "characterId": "0ed8230c-e2ae-46b4-9740-e6a10db420fa",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "minotaur": {
+  "characterId": "89fe067e-94fa-497a-8f08-30cfb47b5db5",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "troll_king": {
+  "characterId": "3ee8b66a-51bd-465c-939f-dbd145ed91c1",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "yeti": {
+  "characterId": "a53f4c1a-af5a-4df4-b73f-140b8d96593a",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "ice_golem": {
+  "characterId": "423496f9-5fc2-4a9b-8043-03d8d6033e8d",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "frost_harpy": {
+  "characterId": "71c5aa0e-364a-4406-b12e-2a8d550997f3",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "snowman": {
+  "characterId": "331727da-ce7f-4e98-949b-fc262ba2695a",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "mummy": {
+  "characterId": "8bedd845-99eb-4d39-9be9-0045a7f11662",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "gnoll": {
+  "characterId": "24d795e0-b8b1-4cf0-aaf2-9732ede06b46",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "sand_bandit": {
+  "characterId": "1f4f297b-76cd-4728-a4d6-a3d4c2b8984d",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "scorpion_man": {
+  "characterId": "6e617951-564d-4637-967f-98fd06997f63",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "fire_imp": {
+  "characterId": "94e180fd-3fd2-4c77-ba97-15d3217685bf",
+  "direction": "south-west",
+  "scale": 3,
+  "hurt": "hurt2"
+ },
+ "salamander": {
+  "characterId": "9ca7517d-cce2-4d33-9c99-f5c9b5699dc0",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "magma_golem": {
+  "characterId": "e3c08ae7-5242-4d4a-a54c-547a42b37d1e",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "demon_brute": {
+  "characterId": "a20f5555-3a5a-4e5e-a8f3-159413df8723",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "shroomling": {
+  "characterId": "96e8623a-48fa-459d-b2bc-fcde1646bcf6",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "wood_spirit": {
+  "characterId": "2b33e900-5207-4c71-9943-411acfc69697",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "toad_warrior": {
+  "characterId": "d526f329-1c56-422c-92b9-e4b254f0788b",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "thorn_dryad": {
+  "characterId": "22c7e66c-2306-467b-8f6d-babb75adb22c",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "crab_warrior": {
+  "characterId": "ac803cbd-97cb-4a55-b366-e76e3d68d569",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "merfolk": {
+  "characterId": "f688875c-dfe2-4782-9601-f6e516225515",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "drowned_pirate": {
+  "characterId": "efd2cdb2-bf74-4411-b871-8ad046215dd8",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "shark_man": {
+  "characterId": "a818d45b-d91a-4ff6-855b-d7026f0da1b5",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "gargoyle": {
+  "characterId": "07807ff1-fffe-46c2-b7f7-d306ed243175",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "bat_fiend": {
+  "characterId": "9fcfdb69-ffc4-4ecb-acb8-ac2890296dff",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "cultist": {
+  "characterId": "0d247495-384d-48b9-a4b1-51583058c741",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike3"
+ },
+ "wraith": {
+  "characterId": "c06563d8-1019-43a2-b38f-0f9f1594b50a",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "drake_warrior": {
+  "characterId": "cf069d10-b431-426e-ba6b-5a368c1886ff",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "dragon_mage": {
+  "characterId": "620ded47-53f1-4b20-a0dd-5f502fe8d6eb",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "wyvern_knight": {
+  "characterId": "176f221b-ef56-444d-bfcd-d815f0dfc66e",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "obsidian_golem": {
+  "characterId": "87eebc8d-b6e7-46c5-8590-d25c4c189624",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "frost_giant": {
+  "characterId": "8a559e8e-1630-46e7-a518-c8c8e08b31da",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "jackal_lord": {
+  "characterId": "ed66365f-b0ef-43dc-9725-eb239c18b46b",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "efreet": {
+  "characterId": "607c8242-00af-4cf2-8812-9dc4cdaf70fc",
+  "direction": "south-west",
+  "scale": 3
+ },
+ "spider_queen": {
+  "characterId": "2a6f1351-b501-4b88-98a3-b8cef06fd4e6",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "sea_king": {
+  "characterId": "2ea90c1a-cb6a-451d-8b63-363042a9abe2",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "vampire_lord": {
+  "characterId": "aed9835d-3b02-4d7d-a3e7-c558f25de50b",
+  "direction": "south-west",
+  "scale": 3,
+  "attack": "strike2"
+ },
+ "dragon_king": {
+  "characterId": "555948e6-055f-491a-b9b1-1ac05e0c4069",
+  "direction": "south-west",
+  "scale": 3
+ }
+}

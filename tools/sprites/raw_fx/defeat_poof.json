@@ -1,0 +1,183 @@
+{
+ "frames": [
+  {
+   "filename": "defeat-poof 0.png",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  },
+  {
+   "filename": "defeat-poof 1.png",
+   "frame": {
+    "x": 56,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  },
+  {
+   "filename": "defeat-poof 2.png",
+   "frame": {
+    "x": 112,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  },
+  {
+   "filename": "defeat-poof 3.png",
+   "frame": {
+    "x": 0,
+    "y": 56,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  },
+  {
+   "filename": "defeat-poof 4.png",
+   "frame": {
+    "x": 56,
+    "y": 56,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  },
+  {
+   "filename": "defeat-poof 5.png",
+   "frame": {
+    "x": 112,
+    "y": 56,
+    "w": 56,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 2.25,
+    "y": 2.1964285714285716
+   },
+   "duration": 83
+  }
+ ],
+ "meta": {
+  "app": "PixelLab VFX Creator",
+  "image": "defeat-poof.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 168,
+   "h": 112
+  },
+  "scale": "1",
+  "anchor": {
+   "kind": "origin",
+   "x": 126,
+   "y": 123
+  },
+  "frameTags": [
+   {
+    "name": "defeat-poof",
+    "from": 0,
+    "to": 5,
+    "direction": "forward"
+   }
+  ]
+ }
+}

@@ -1,0 +1,10 @@
+Copyright (c) 2026 trialmobile. All rights reserved.
+
+The source code, art, sound effects and text in this repository are published
+so they can be read. They are not open source: no part of them may be copied,
+modified, distributed or used in other projects without written permission.
+
+Third-party components keep their own licenses:
+- libGDX and related libraries: Apache License 2.0
+- Galmuri fonts by Lee Minseo (assets/fonts/): SIL Open Font License 1.1
+  (see assets/fonts/Galmuri-OFL.txt)

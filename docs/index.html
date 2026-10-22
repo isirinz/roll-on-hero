@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Roll On, Hero! · 굴려라 용사여!</title>
+<meta name="description" content="A dice-rolling pixel idle RPG · 주사위로 싸우는 픽셀아트 방치형 RPG">
+<meta property="og:title" content="Roll On, Hero! · 굴려라 용사여!">
+<meta property="og:description" content="A dice-rolling pixel idle RPG · 주사위로 싸우는 방치형 RPG">
+<meta property="og:image" content="https://isirinz.github.io/roll-on-hero/images/banner.png">
+<link rel="icon" href="store/icon_192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  /* 게임 화면과 같은 나무·양피지·금색 */
+  :root {
+    --wood: #4a2e2a; --wood-dark: #2b1d2e; --parchment: #f2d3a2; --cream: #fff4dc;
+    --ink: #4a3245; --dim: #7a4f3a; --gold: #ffd36e; --green: #8fd16a;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--wood); color: var(--cream);
+    font: 16px/1.7 "Noto Sans KR", system-ui, sans-serif; }
+  img { image-rendering: pixelated; max-width: 100%; display: block; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 16px; }
+  header.hero { background: var(--wood-dark); }
+  header.hero img { width: 100%; height: auto; }
+  .lang { display: flex; justify-content: flex-end; gap: 8px; padding: 12px 0 0; }
+  .lang button { font: 15px "Jua", sans-serif; background: transparent; color: var(--parchment);
+    border: 2px solid var(--parchment); border-radius: 8px; padding: 4px 12px; cursor: pointer; }
+  .lang button[aria-pressed="true"] { background: var(--gold); color: var(--wood-dark); border-color: var(--gold); }
+  h1, h2 { font-family: "Jua", sans-serif; font-weight: 400; color: var(--gold); line-height: 1.25; }
+  h1 { font-size: clamp(30px, 6vw, 46px); margin: 24px 0 4px; }
+  .tagline { font-size: 19px; color: var(--parchment); margin: 0 0 24px; }
+  h2 { font-size: 26px; margin: 48px 0 12px; }
+  .lead { max-width: 64ch; }
+  .cta { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 8px; }
+  .btn { font: 18px "Jua", sans-serif; text-decoration: none; padding: 10px 20px; border-radius: 10px;
+    border: 3px solid var(--wood-dark); box-shadow: 0 4px 0 var(--wood-dark); }
+  .btn.gold { background: var(--gold); color: var(--wood-dark); }
+  .btn.soon { background: var(--parchment); color: var(--dim); cursor: default; }
+  .btn:focus-visible { outline: 3px solid var(--cream); outline-offset: 2px; }
+  .features { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; padding: 0; list-style: none; }
+  .features li { background: var(--parchment); color: var(--ink); border: 3px solid var(--wood-dark);
+    border-radius: 12px; padding: 14px 16px; box-shadow: 0 4px 0 var(--wood-dark); }
+  .features b { display: block; font: 19px "Jua", sans-serif; color: var(--wood); margin-bottom: 2px; }
+  .gif { display: flex; justify-content: center; margin: 8px 0; }
+  .gif img { width: min(432px, 100%); border: 3px solid var(--wood-dark); border-radius: 12px; }
+  .shots { display: flex; gap: 12px; overflow-x: auto; padding: 4px 0 12px; scroll-snap-type: x mandatory; }
+  .shots img { width: 220px; flex: none; border-radius: 12px; border: 3px solid var(--wood-dark); scroll-snap-align: start; }
+  footer { margin: 56px 0 0; padding: 24px 0 40px; border-top: 2px solid rgba(242, 211, 162, .25); color: var(--parchment); font-size: 14px; }
+  footer a { color: var(--gold); }
+  [data-lang] { display: none; }
+  html[lang="ko"] [data-lang="ko"], html[lang="en"] [data-lang="en"] { display: revert; }
+</style>
+</head>
+<body>
+<header class="hero">
+  <img src="images/banner.png" alt="Roll On, Hero! — 굴려라 용사여!" width="1280" height="440">
+</header>
+
+<main class="wrap">
+  <div class="lang" role="group" aria-label="Language">
+    <button type="button" data-set="ko">한국어</button>
+    <button type="button" data-set="en">English</button>
+  </div>
+
+  <!-- 한국어 -->
+  <section data-lang="ko">
+    <h1>굴려라 용사여!</h1>
+    <p class="tagline">휘두를 때마다 주사위를 굴린다 · 픽셀아트 방치형 RPG</p>
+    <p class="lead">옛날 테이블탑 RPG 규칙으로 싸우는 방치형 게임이에요. 라운드마다 영웅과 몬스터가 6면체 주사위를 한 움큼씩 던지고, 합이 높은 쪽이 때립니다. 방어구가 피해를 막고, 6이 나오면 방어구를 뚫고 들어가요. 영웅을 어떻게 키울지는 당신이 정합니다.</p>
+    <div class="cta">
+      <span class="btn soon" aria-disabled="true">Google Play 곧 출시</span>
+      <a class="btn gold" href="https://github.com/isirinz/roll-on-hero">GitHub 소스 보기</a>
+    </div>
+  </section>
+
+  <!-- English -->
+  <section data-lang="en">
+    <h1>Roll On, Hero!</h1>
+    <p class="tagline">Every swing is a roll of the dice · a pixel-art idle RPG</p>
+    <p class="lead">An idle RPG built on old-school tabletop rules. Every round, the hero and the monster each throw a handful of six-sided dice, and the higher total hits. Armor soaks part of the blow, and every 6 you roll bites through anyway. You decide how your hero grows.</p>
+    <div class="cta">
+      <span class="btn soon" aria-disabled="true">Coming soon on Google Play</span>
+      <a class="btn gold" href="https://github.com/isirinz/roll-on-hero">Source on GitHub</a>
+    </div>
+  </section>
+
+  <div class="gif"><img src="images/battle.gif" alt="" width="432" height="400" loading="lazy"></div>
+
+  <section data-lang="ko">
+    <h2>이런 게임이에요</h2>
+    <ul class="features">
+      <li><b>눈으로 보는 주사위 전투</b>주사위 하나하나, 합계, 행운의 6까지 화면에서 구릅니다.</li>
+      <li><b>10개 챕터, 몬스터 50종</b>초록 들판에서 용의 봉우리까지. 챕터마다 배경과 보스가 달라요.</li>
+      <li><b>알아서 터지는 스킬 5종</b>받아라 이 악마야!, 아이고 가엾어라, 다들 엎드려!! 외.</li>
+      <li><b>장비 19종</b>무기·갑옷·방패를 사고 골드로 강화하세요.</li>
+      <li><b>환생</b>막히면 처음부터 다시, 영혼석으로 영구 특성을 배워 더 빨리.</li>
+      <li><b>꺼 둬도 계속 모험</b>처음엔 2시간, 깊이 갈수록 늘어 최대 12시간까지 보상.</li>
+    </ul>
+    <h2>스크린샷</h2>
+    <div class="shots" tabindex="0" aria-label="스크린샷">
+      <img src="store/screens/ko_1.png" alt="영웅 탭과 전투" loading="lazy">
+      <img src="store/screens/ko_2.png" alt="장비 강화" loading="lazy">
+      <img src="store/screens/ko_3.png" alt="스킬과 보스전" loading="lazy">
+      <img src="store/screens/ko_4.png" alt="상점" loading="lazy">
+      <img src="store/screens/ko_5.png" alt="환생" loading="lazy">
+    </div>
+  </section>
+
+  <section data-lang="en">
+    <h2>What's inside</h2>
+    <ul class="features">
+      <li><b>Dice combat you can see</b>Every die, every total, every lucky 6 tumbles across the screen.</li>
+      <li><b>10 chapters, 50 monsters</b>From a green meadow to the dragon's peak, each with its own boss.</li>
+      <li><b>5 auto-cast spells</b>Take That, You Fiend!, Poor Baby, Everybody Duck!! and more.</li>
+      <li><b>19 pieces of gear</b>Buy weapons, armor and shields, then enhance them with gold.</li>
+      <li><b>Rebirth</b>Start over for soul stones and permanent souls. Every new life goes faster.</li>
+      <li><b>Keeps fighting while you're away</b>2 hours at first, growing to 12 hours as you go deeper.</li>
+    </ul>
+    <h2>Screenshots</h2>
+    <div class="shots" tabindex="0" aria-label="Screenshots">
+      <img src="store/screens/en_1.png" alt="Hero tab and battle" loading="lazy">
+      <img src="store/screens/en_2.png" alt="Gear" loading="lazy">
+      <img src="store/screens/en_3.png" alt="Spells and a boss fight" loading="lazy">
+      <img src="store/screens/en_4.png" alt="Shop" loading="lazy">
+      <img src="store/screens/en_5.png" alt="Rebirth" loading="lazy">
+    </div>
+  </section>
+
+  <footer>
+    <p data-lang="ko"><a href="privacy/">개인정보처리방침</a> · 문의 <a href="mailto:isirinz@naver.com">isirinz@naver.com</a> · © 2026 trialmobile. 모든 권리 보유.</p>
+    <p data-lang="en"><a href="privacy/#en">Privacy Policy</a> · Contact <a href="mailto:isirinz@naver.com">isirinz@naver.com</a> · © 2026 trialmobile. All rights reserved.</p>
+  </footer>
+</main>
+
+<script>
+  // 언어: 저장된 선택 → 브라우저 언어(한국어면 ko) 순서
+  (function () {
+    var saved = null;
+    try { saved = localStorage.getItem('roh-lang'); } catch (e) {}
+    var lang = saved || ((navigator.language || '').toLowerCase().indexOf('ko') === 0 ? 'ko' : 'en');
+    function set(l) {
+      document.documentElement.lang = l;
+      document.querySelectorAll('.lang button').forEach(function (b) {
+        b.setAttribute('aria-pressed', b.dataset.set === l ? 'true' : 'false');
+      });
+      try { localStorage.setItem('roh-lang', l); } catch (e) {}
+    }
+    document.querySelectorAll('.lang button').forEach(function (b) {
+      b.addEventListener('click', function () { set(b.dataset.set); });
+    });
+    set(lang);
+  })();
+</script>
+</body>
+</html>

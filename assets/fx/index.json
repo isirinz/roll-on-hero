@@ -1,0 +1,74 @@
+{
+ "hit_slash": {
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "frames": 5,
+  "duration": 0.063,
+  "scale": 2,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ },
+ "spell_bolt": {
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "frames": 9,
+  "duration": 0.063,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ },
+ "spell_heal": {
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "frames": 9,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.375
+ },
+ "spell_vorpal": {
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "frames": 8,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ },
+ "spell_fire": {
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "frames": 8,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ },
+ "spell_hellbomb": {
+  "frameWidth": 96,
+  "frameHeight": 96,
+  "frames": 10,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ },
+ "level_up": {
+  "frameWidth": 64,
+  "frameHeight": 96,
+  "frames": 10,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.453125,
+  "pivotY": 0.1458
+ },
+ "defeat_poof": {
+  "frameWidth": 56,
+  "frameHeight": 56,
+  "frames": 6,
+  "duration": 0.083,
+  "scale": 3,
+  "pivotX": 0.5,
+  "pivotY": 0.5
+ }
+}

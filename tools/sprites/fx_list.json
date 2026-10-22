@@ -1,0 +1,10 @@
+{
+ "hit_slash":      {"url": "https://api.pixellab.ai/mcp/pixel-tools/b07620db-af19-4a45-8337-d6e9755db3c9/hit-slash",      "scale": 2},
+ "spell_bolt":     {"url": "https://api.pixellab.ai/mcp/pixel-tools/f3fc1b27-f92f-4437-8c94-9e7cadbe69be/spell-bolt",     "scale": 3},
+ "spell_heal":     {"url": "https://api.pixellab.ai/mcp/pixel-tools/857ac53a-af43-4966-b821-0f05e8401ac9/spell-heal",     "scale": 3},
+ "spell_vorpal":   {"url": "https://api.pixellab.ai/mcp/pixel-tools/ac50109a-93af-4bf0-8e10-ee48d6edbdc5/spell-vorpal",   "scale": 3},
+ "spell_fire":     {"url": "https://api.pixellab.ai/mcp/pixel-tools/a2370b3c-dacc-4754-a135-2ab90fece02d/spell-fire",     "scale": 3},
+ "spell_hellbomb": {"url": "https://api.pixellab.ai/mcp/pixel-tools/2f508ac9-43fb-4148-90e3-952f2df8677a/spell-hellbomb", "scale": 3},
+ "level_up":       {"url": "https://api.pixellab.ai/mcp/pixel-tools/ff5faccd-1d3d-4cf8-be56-3f05921e9d97/level-up",       "scale": 3},
+ "defeat_poof":    {"url": "https://api.pixellab.ai/mcp/pixel-tools/44b8da94-b22c-49ed-8790-b105c1812ef0/defeat-poof",    "scale": 3}
+}

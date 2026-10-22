@@ -1,0 +1,15 @@
+{
+ "crab_warrior": 0.7,
+ "ogre": 0.64,
+ "obsidian_golem": 0.79,
+ "wraith": 0.68,
+ "yeti": 0.68,
+ "vampire_lord": 0.77,
+ "sea_king": {
+  "recover": true
+ },
+ "skeleton_knight": {
+  "recover": true
+ },
+ "magma_golem": 0.77
+}
