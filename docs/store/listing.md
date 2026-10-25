@@ -14,7 +14,7 @@ Play Console → 스토어 등록정보에 붙여 넣을 글과 이미지. 한�
 | 무료 / 유료 | 무료 |
 | 광고 포함 | 아니요 (보상형 광고를 붙이면 "예"로 바꿀 것) |
 | 인앱 구매 | 없음 |
-| 업로드 파일 | `dist/RollOnHero-1.0.0.aab` (versionCode 1, 1.0.0) |
+| 업로드 파일 | `dist/RollOnHero-1.0.0.aab` (versionCode 2, 1.0.0, 최소 Android 7.0 / API 24) |
 
 ## 짧은 설명 (80자 이내)
 
@@ -105,7 +105,8 @@ No internet connection needed. No personal data collected.
 
 ## 앱 콘텐츠 (정책) 답변
 
-- **개인정보처리방침**: `docs/privacy/index.html`을 공개 주소에 올리고 그 주소를 넣는다(예: GitHub Pages `https://<계정>.github.io/<저장소>/privacy/`).
+- **개인정보처리방침**: `https://isirinz.github.io/roll-on-hero/privacy/` (원본 `docs/privacy/index.html`, GitHub Pages)
+- **웹사이트**(스토어 등록정보 → 연락처 세부정보): `https://isirinz.github.io/roll-on-hero/`, 이메일 `isirinz@naver.com`
 - **광고**: 광고 없음.
 - **앱 액세스 권한**: 모든 기능을 제한 없이 사용 가능(로그인 없음).
 - **콘텐츠 등급**: 설문에서 "판타지 폭력(만화풍, 피 없음)"에 해당. 도박 아님(실제 돈·현금성 보상 없는 주사위). 대개 전체 이용가~12세.

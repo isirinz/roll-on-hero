@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>A dice-rolling idle RPG</b> · <b>주사위로 싸우는 방치형 RPG</b><br>
-  <a href="https://isirinz.github.io/roll-on-hero/">Website</a> · <a href="#english">English</a> · <a href="#한국어">한국어</a> · <a href="https://isirinz.github.io/roll-on-hero/privacy/">Privacy</a>
+  <a href="https://play.google.com/store/apps/details?id=com.trialmobile.rollonhero"><b>Google Play</b></a> · <a href="https://isirinz.github.io/roll-on-hero/">Website</a> · <a href="#english">English</a> · <a href="#한국어">한국어</a> · <a href="https://isirinz.github.io/roll-on-hero/privacy/">Privacy</a>
 </p>
 
 <p align="center">

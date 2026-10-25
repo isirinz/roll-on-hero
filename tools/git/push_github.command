@@ -24,7 +24,8 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01YHj9XfXtsU3kDFt7cQpeh7
 MSG
   else
-    git diff --cached --quiet || git commit -q -m "Update"
+    MSGFILE=_to_delete/commit-msg.txt
+    if [ -f "$MSGFILE" ]; then git diff --cached --quiet || git commit -q -F "$MSGFILE"; else git diff --cached --quiet || git commit -q -m "Update"; fi
   fi
   git log --oneline | head -3
   git push -u origin main
